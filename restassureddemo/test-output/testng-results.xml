@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-31T16:11:53 IST" name="Default suite" finished-at="2022-07-31T16:11:55 IST" duration-ms="2804">
+    <groups>
+    </groups>
+    <test started-at="2022-07-31T16:11:53 IST" name="Default test" finished-at="2022-07-31T16:11:55 IST" duration-ms="2804">
+      <class name="com.restassured.testclasses.TestExample">
+        <test-method signature="testGet()[pri:0, instance:com.restassured.testclasses.TestExample@2de56eb2]" started-at="2022-07-31T16:11:53 IST" name="testGet" finished-at="2022-07-31T16:11:55 IST" duration-ms="1947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGet -->
+        <test-method signature="testPost()[pri:0, instance:com.restassured.testclasses.TestExample@2de56eb2]" started-at="2022-07-31T16:11:55 IST" name="testPost" finished-at="2022-07-31T16:11:55 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+        <test-method signature="test_1()[pri:0, instance:com.restassured.testclasses.TestExample@2de56eb2]" started-at="2022-07-31T16:11:55 IST" name="test_1" finished-at="2022-07-31T16:11:55 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+        <test-method signature="test_2()[pri:0, instance:com.restassured.testclasses.TestExample@2de56eb2]" started-at="2022-07-31T16:11:55 IST" name="test_2" finished-at="2022-07-31T16:11:55 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_2 -->
+      </class> <!-- com.restassured.testclasses.TestExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
